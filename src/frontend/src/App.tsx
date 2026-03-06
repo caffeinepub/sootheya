@@ -61,9 +61,9 @@ function TypingIndicator() {
         style={{ background: "oklch(0.91 0.04 295)" }}
       >
         <img
-          src="/assets/generated/sootheya-logo-transparent.dim_200x200.png"
+          src="/assets/uploads/photo_2026-01-17_01-35-04-1.jpg"
           alt="Sootheya"
-          className="w-5 h-5 object-contain"
+          className="w-5 h-5 object-cover rounded-full"
         />
       </div>
       <div className="bubble-sootheya px-4 py-3 shadow-xs flex items-center gap-1.5">
@@ -100,9 +100,9 @@ function MessageBubble({
           style={{ background: "oklch(0.91 0.04 295)" }}
         >
           <img
-            src="/assets/generated/sootheya-logo-transparent.dim_200x200.png"
+            src="/assets/uploads/photo_2026-01-17_01-35-04-1.jpg"
             alt="Sootheya"
-            className="w-5 h-5 object-contain"
+            className="w-5 h-5 object-cover rounded-full"
           />
         </div>
       )}
@@ -148,9 +148,9 @@ function EmptyState({ onChipClick }: { onChipClick: (text: string) => void }) {
         style={{ background: "oklch(0.91 0.05 295)" }}
       >
         <img
-          src="/assets/generated/sootheya-logo-transparent.dim_200x200.png"
+          src="/assets/uploads/photo_2026-01-17_01-35-04-1.jpg"
           alt="Sootheya"
-          className="w-10 h-10 object-contain"
+          className="w-10 h-10 object-cover rounded-full"
         />
       </motion.div>
 
@@ -252,9 +252,9 @@ function LandingView({ onStart }: { onStart: () => void }) {
             style={{ background: "oklch(0.93 0.04 295 / 0.8)" }}
           >
             <img
-              src="/assets/generated/sootheya-logo-transparent.dim_200x200.png"
+              src="/assets/uploads/photo_2026-01-17_01-35-04-1.jpg"
               alt="Sootheya Logo"
-              className="w-20 h-20 object-contain"
+              className="w-20 h-20 object-cover rounded-full"
             />
           </div>
         </motion.div>
@@ -488,9 +488,9 @@ function ChatView({
             style={{ background: "oklch(0.91 0.04 295)" }}
           >
             <img
-              src="/assets/generated/sootheya-logo-transparent.dim_200x200.png"
+              src="/assets/uploads/photo_2026-01-17_01-35-04-1.jpg"
               alt="Sootheya"
-              className="w-6 h-6 object-contain"
+              className="w-6 h-6 object-cover rounded-full"
             />
           </div>
           <div className="min-w-0">
